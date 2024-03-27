@@ -2,7 +2,7 @@
  Basic Code for IoT Project using Blynk and NodeMCU
 
 
-Blynk Cloud APIto integrate with 
+Blynk Cloud APIto integrate with - Region India
 ```
 https://blr1.blynk.cloud/external/api/update?token={replace_the_token_here}&{pin_num}={state_0or1}
 ```
